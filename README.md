@@ -112,4 +112,5 @@ Technology files, PDK files or third-party model files are not included unless r
 ## Authors
 
 Matteo Tonini
+
 Antonio Tuma
