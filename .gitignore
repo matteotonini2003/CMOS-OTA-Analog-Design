@@ -1,0 +1,73 @@
+# LTspice generated files
+
+*.raw
+*.log
+*.net
+*.op.raw
+*.fft
+*.meas
+*.step
+*.tmp
+*.bak
+
+# Keep LTspice source files
+
+!*.asc
+!*.asy
+!*.cir
+!*.plt
+
+# Glade / layout generated or temporary files
+
+*.gds
+*.oas
+*.cdl
+*.sp
+*.spi
+*.err
+*.lvs
+*.drc
+*.ext
+*.tmp
+
+# PDK / technology files
+
+# Do not upload third-party or restricted PDK files unless redistribution is allowed
+
+psm_work*/
+PDK*/
+pdk*/
+models/
+*.lib
+*.mod
+
+# LaTeX generated files
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Editor files
+
+.vscode/
+.idea/
+*.swp
+*.swo
